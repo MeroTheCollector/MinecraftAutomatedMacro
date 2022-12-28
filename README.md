@@ -7,6 +7,6 @@ To use the script
 
 simply make sure than you have python 3 with pip installed on your machine and run command
 
-<sub>$pip install req.txt</sub>
-then
-<sub>$python3 MultiFuncMacro.py</sub>
+```$ pip install req.txt```
+**And Then**
+```$ python3 MultiFuncMacro.py```
