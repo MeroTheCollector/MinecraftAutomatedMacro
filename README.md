@@ -10,3 +10,5 @@ simply make sure than you have python 3 with pip installed on your machine and r
 ```$ pip install req.txt```
 **And Then**
 ```$ python3 MultiFuncMacro.py```
+
+You do need to have access to gui on linux, and to use it through CLI use Screen package.
